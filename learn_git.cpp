@@ -1,4 +1,4 @@
-// git inti -> to initate git file
+// git init -> to initiate git file
 
 // git add <file name> -> to add file
 
